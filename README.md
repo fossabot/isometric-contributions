@@ -5,6 +5,8 @@ Besides being sort of neat looking, this view is interesting in that it highligh
 ![](http://cl.ly/image/1j0j3l1R1d2Z/content)
 
 ## Installation
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fisometric-contributions.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fisometric-contributions?ref=badge_shield)
+
 
 ### Safari
 
@@ -38,3 +40,6 @@ Feel free to send a pull request if you've made an improvement.
 ## License
 
 This project is licensed under the [MIT License](http://opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fisometric-contributions.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fisometric-contributions?ref=badge_large)
